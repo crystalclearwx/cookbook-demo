@@ -13,7 +13,7 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Authors
 
-[First Author](@first-author), [Second Author](@second-author), etc. _Acknowledge primary content authors here_
+[Crystal Worley](@crystalclearwx)
 
 ### Contributors
 
